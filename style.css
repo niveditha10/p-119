@@ -1,0 +1,43 @@
+.heading{
+    font-size:33px;
+    margin:0px;
+    width:100%;
+    box-shadow: 1px 1px 25px blue;
+    background-color:pink;
+}
+
+.heading_div{
+    float:none;
+    background-color:peachpuff;
+    color:purple;
+padding:8px;
+border-radius:20px;
+}
+.heading_div_2{
+    font-size:13px;
+}
+
+.results{
+    font-size:25px;
+    box-shadow:5px 5px 5px blue;
+    background-color :blueviolet;
+
+}
+
+#footer_div{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    color:white;
+    background-color:grey;
+    text-align:center;
+    line-height:3;
+    font-variant:small-caps;
+}
+
+canvas{
+    box-shadow:8px 8px 8px pink;
+    border:3px solid white;
+    border-radius:30px;
+    margin-top:100px;
+}
